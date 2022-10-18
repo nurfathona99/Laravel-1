@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\ACER\belajar_laravel\resources\views/home.blade.php ENDPATH**/ ?>
